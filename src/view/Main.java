@@ -10,7 +10,7 @@ public class Main {
 			IArquivosController arqCont = new ArquivosController();
 			String dirWin = "C:\\Windows";
 			String path = "C:\\Windows\\Temp\\Exemplo";
-			String name = "teste";
+			String name = "teste.txt";
 			try{
 				//arqCont.readDir(dirWin);
 				//arqCont.createFile(path, name);
