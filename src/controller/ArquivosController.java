@@ -31,7 +31,7 @@ public class ArquivosController implements IArquivosController {
 				}
 			}
 		} else {
-			throw new IOException("Diretório inválido");
+			throw new IOException("Diretório inválido.");
 		}
 
 	}
